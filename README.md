@@ -1,4 +1,3 @@
-# PROYECTOTAM
 # 🤖 PROYECTO_TAM — SmartRecruit AI
 ### Sistema Inteligente de Matching y Selección de Talento
 
